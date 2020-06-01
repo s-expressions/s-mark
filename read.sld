@@ -1,3 +1,6 @@
+;; Copyright 2020 Lassi Kortela
+;; SPDX-License-Identifier: ISC
+
 (define-library (s-mark read)
   (export s-mark-read-all)
   (import (scheme base) (scheme char))
